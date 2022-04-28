@@ -1,5 +1,5 @@
 # SortingVisualizer
-Using HTML, CSS and Javascript a sorting visualizer website is created which is then deployed aws
+Using HTML, CSS and Javascript a sorting visualizer website is created which is then deployed aws <br />
 Sorting Algorithm used:
 **Bubble Sort
 Selection Sort
