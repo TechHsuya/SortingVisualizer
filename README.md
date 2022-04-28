@@ -9,4 +9,4 @@ Sorting Algorithm used: <br />
 - **Quick Sort**<br />
 <br />
 Website is then deployed in AWS S3 using AWS free tier.<br /><br />
-**Link for Website** : [Sorting Visualizer](http://sortingvisualizer.s3-website-us-east-1.amazonaws.com/)
+Link for Website [SortingVisualizer](http://sortingvisualizer.s3-website-us-east-1.amazonaws.com/)
